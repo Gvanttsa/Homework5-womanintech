@@ -122,3 +122,74 @@
 	font-family: 'Acumin Pro';
 	line-height: 23px;
 }
+
+.wrapper-2 {
+	width: 1160px;
+	height: 1054px;
+	margin: 0 auto;
+	margin-bottom: 140px;
+}
+
+.heading-2 {
+	font-family: 'Helvetica';
+	font-size: 24px;
+	color: #202124;
+	font-weight: bold;
+	margin-bottom: 40px;
+
+}
+
+.left-box {
+	width: 760px;
+	height: 900px;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+}
+
+.right-box {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.div-img1 {
+	width: 760px;
+	height: 443px;
+	position: relative;
+}
+
+.p-img1 {
+	position: absolute;
+	top: 394px;
+	left: 569px;
+	color: #FFFFFF;
+	font-family: 'Helvetica';
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.tree {
+	margin-top: 40px;
+}
+
+.div-img2 {
+	display: inline-block;
+	position: relative;
+}
+
+.p-img2 {
+	position: absolute;
+	color: #FFFFFF;
+	font-family: 'Helvetica';
+	font-size: 16px;
+	font-weight: bold;
+	top: 18px;
+	left: 40px;
+}
+
+.middle-img {
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
