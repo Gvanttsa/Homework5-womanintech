@@ -1,0 +1,24 @@
+/*header*/
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 18px;
+	margin-right: 92px;
+	margin-left: 20px;
+	font-size: 13px;
+	color: #FA6980;
+	line-height: 20px;
+	font-family: 'Helvetica';
+
+
+}
+
+.nav-li {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.list {
+	display: inline-block;
+
+}
