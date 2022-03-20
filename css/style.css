@@ -9,8 +9,7 @@
 	color: #FA6980;
 	line-height: 20px;
 	font-family: 'Helvetica';
-
-
+	font-weight: bold;
 }
 
 .nav-li {
@@ -20,5 +19,29 @@
 
 .list {
 	display: inline-block;
+	margin-top: 18px;
+	font-size: 12px;
+	font-weight: bold;
+}
 
+.home {
+	color: #343638;
+	font-family: 'Helvetica';
+}
+
+.li {
+	margin-left: 92px;
+}
+
+.li-1 {
+	margin-left: 22px;
+	font-family: 'Helvetica';
+	color: grey
+}
+
+.girl {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 40px;
+	margin-top: 11px;
 }
